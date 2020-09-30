@@ -335,9 +335,7 @@ int main(int argc, const char * argv[]) {
                 cout<<"\n\nEnter the Acoount No.: "; cin>>num;
                 modify_account(num);
                 break;
-//            case '8':
-//                cout<<"Thank you for using Bank Management System.";
-//                break;
+
             };
     }while(ch!='8');
     
