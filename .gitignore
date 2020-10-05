@@ -1,5 +1,9 @@
-
+# executables per mini projects
 day_calculator
 bank_manage_system
 triplex
+library_manage_sys
+
+# vscode / xcode properties file
 .vscode
+*.xcodeproj
